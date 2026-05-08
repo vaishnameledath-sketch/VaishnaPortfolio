@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaishnameledath-sketch/Portfolio.git/static/css/main.aa491331.css",
+    "main.js": "/vaishnameledath-sketch/Portfolio.git/static/js/main.66daf114.js",
+    "static/js/453.3aa55f1c.chunk.js": "/vaishnameledath-sketch/Portfolio.git/static/js/453.3aa55f1c.chunk.js",
+    "index.html": "/vaishnameledath-sketch/Portfolio.git/index.html",
+    "main.aa491331.css.map": "/vaishnameledath-sketch/Portfolio.git/static/css/main.aa491331.css.map",
+    "main.66daf114.js.map": "/vaishnameledath-sketch/Portfolio.git/static/js/main.66daf114.js.map",
+    "453.3aa55f1c.chunk.js.map": "/vaishnameledath-sketch/Portfolio.git/static/js/453.3aa55f1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa491331.css",
+    "static/js/main.66daf114.js"
+  ]
+}
